@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://acm-uic.github.io/blog</id>
+    <title>ACM@UIC Blog</title>
+    <updated>2021-05-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://acm-uic.github.io/blog"/>
+    <subtitle>ACM@UIC Blog</subtitle>
+    <icon>https://acm-uic.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[New blog 👋]]></title>
+        <id>new-blog</id>
+        <link href="https://acm-uic.github.io/blog/new-blog"/>
+        <updated>2021-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's see if we can all the old blog posts migrated here. 😏]]></summary>
+    </entry>
+</feed>
