@@ -1,1 +1,0 @@
-(self.webpackChunkacm_uic_github_io=self.webpackChunkacm_uic_github_io||[]).push([[267],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New blog \ud83d\udc4b","permalink":"/blog/new-blog"}]}')}}]);
